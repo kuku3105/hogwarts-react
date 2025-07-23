@@ -1,0 +1,51 @@
+.watch-page {
+ width: 100vw;
+  min-height: 100vh;
+  background-color: #1b0101;
+  color: #f6c90e;
+  padding: 4rem 2rem;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.watch-container {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.watch-section {
+  background-color: #5e0606;
+  border-radius: 12px;
+  padding: 2rem;
+  width: 400px;
+  max-width: 90%;
+  box-shadow: 0 0 15px rgba(28, 0, 0, 0.1);
+}
+
+.watch-section h3 {
+ color: #f6c90e;
+  margin-bottom: 1rem;
+}
+
+.watch-section ul {
+  list-style: none;
+  padding: 0;
+}
+
+.watch-section li {
+  margin: 0.5rem 0;
+}
+
+.watch-section a {
+  color: #9ec5fe;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.watch-section a:hover {
+  color: #f0c75e;
+  text-decoration: underline;
+}

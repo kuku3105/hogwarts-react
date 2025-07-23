@@ -1,0 +1,32 @@
+.house-selector {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+  margin-bottom: 3rem;
+}
+
+.house-button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  text-align: center;
+  transition: transform 0.2s ease;
+}
+
+.house-button img {
+  width: 90px;
+  height: 90px;
+  object-fit: contain;
+  margin-bottom: 0.5rem;
+}
+
+.house-button span {
+  display: block;
+  color: #fff;
+  font-weight: bold;
+}
+
+.house-button:hover {
+  transform: scale(1.1);
+}

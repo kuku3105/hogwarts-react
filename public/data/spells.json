@@ -1,0 +1,81 @@
+[
+  {
+    "name": "Expelliarmus",
+    "type": "Charm",
+    "effect": "Disarms your opponent",
+    "pronunciation": "Ex-PELL-ee-AR-mus"
+  },
+  {
+    "name": "Lumos",
+    "type": "Charm",
+    "effect": "Creates light at the tip of your wand",
+    "pronunciation": "LOO-mos"
+  },
+  {
+    "name": "Alohomora",
+    "type": "Charm",
+    "effect": "Unlocks doors and windows",
+    "pronunciation": "Uh-LOH-ha-MOR-ah"
+  },
+  {
+    "name": "Avada Kedavra",
+    "type": "Curse",
+    "effect": "Kills your opponent instantly",
+    "pronunciation": "Ah-VAH-dah Keh-DAH-vrah"
+  },
+  {
+    "name": "Wingardium Leviosa",
+    "type": "Charm",
+    "effect": "Makes objects fly or levitate",
+    "pronunciation": "Win-GAR-dee-um Levi-OH-sa"
+  },
+  {
+    "name": "Stupefy",
+    "type": "Charm",
+    "effect": "Stuns the target",
+    "pronunciation": "STOO-puh-fye"
+  },
+  {
+    "name": "Accio",
+    "type": "Charm",
+    "effect": "Summons an object towards the caster",
+    "pronunciation": "AK-ee-oh or AH-see-oh"
+  },
+  {
+    "name": "Obliviate",
+    "type": "Charm",
+    "effect": "Erases specific memories from a person's mind",
+    "pronunciation": "Oh-BLI-vee-ate"
+  },
+  {
+    "name": "Protego",
+    "type": "Charm",
+    "effect": "Creates a magical shield to block spells",
+    "pronunciation": "Pro-TAY-go"
+  },
+  {
+    "name": "Sectumsempra",
+    "type": "Curse",
+    "effect": "Inflicts deep gashes on the target as if slashed by a sword",
+    "pronunciation": "SEK-tum-SEMP-rah"
+  },
+  {
+  "name": "Rictusempra",
+  "type": "Jinx",
+  "effect": "Causes the target to laugh uncontrollably",
+  "pronunciation": "RIC-tuh-SEM-pra"
+},
+{
+  "name": "Langlock",
+  "type": "Jinx",
+  "effect": "Glues the target's tongue to the roof of their mouth",
+  "pronunciation": "LANG-lock"
+},
+{
+  "name": "Mimblewimble",
+  "type": "Jinx",
+  "effect": "Tongue-Tying Curse, prevents coherent speech",
+  "pronunciation": "MIM-bull-wim-bull"
+}
+
+]

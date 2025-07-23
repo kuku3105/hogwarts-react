@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Gryffindor",
+    "founder": "Godric Gryffindor",
+    "traits": "Bravery, Courage, Determination",
+    "mascot": "Lion",
+
+    "head": "Minerva McGonagall",
+    "image": "/assets/gryffindor.png"
+  },
+  {
+    "name": "Slytherin",
+    "founder": "Salazar Slytherin",
+    "traits": "Ambition, Cunning, Resourcefulness",
+    "mascot": "Serpent",
+
+    "head": "Severus Snape",
+    "image": "/assets/slytherin.png"
+  },
+  {
+    "name": "Hufflepuff",
+    "founder": "Helga Hufflepuff",
+    "traits": "Loyalty, Patience, Fairness",
+    "mascot": "Badger",
+  
+    "head": "Pomona Sprout",
+    "image": "/assets/hufflepuff.png"
+  },
+  {
+    "name": "Ravenclaw",
+    "founder": "Rowena Ravenclaw",
+    "traits": "Wisdom, Wit, Learning",
+    "mascot": "Eagle",
+    "head": "Filius Flitwick",
+    "image": "/assets/ravenclaw.png"
+  }
+]

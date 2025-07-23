@@ -1,0 +1,32 @@
+.about-page {
+ width: 100vw;
+  min-height: 100vh;
+  background-color: #210101;
+  
+  color: #f6c90e;
+  padding: 4rem 2rem;
+  box-sizing: border-box;
+  text-align: center;
+  margin-top: -70px;
+}
+
+.about-content {
+  background-color:  #5e0606;
+  padding: 2rem;
+  margin:auto;
+  max-width: 800px;
+  border-radius: 12px;
+  box-shadow: 0 0 15px rgba(33, 1, 1, 0.15);
+  color: #fff;
+  line-height: 1.7;
+  font-size: 1.1rem;
+}
+
+.about-content strong {
+  color:#f6c90e;
+}
+
+.about-content em {
+  color: #e9e908;
+  font-style: normal;
+}

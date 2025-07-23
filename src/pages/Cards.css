@@ -1,0 +1,13 @@
+/* src/pages/Cards.css */
+.cards-page {
+  min-height: 100vh;
+  background-color: #2a0101;
+  color: #f6c90e;
+  padding: 2rem;
+  text-align: center;
+}
+
+.cards-page h2 {
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+}
